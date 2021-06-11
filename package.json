@@ -10,5 +10,8 @@
   "license": "MIT",
   "dependencies": {
     "browser-sync": "^2.26.14"
+  },
+  "devDependencies": {
+    "prettier": "^2.3.1"
   }
 }
